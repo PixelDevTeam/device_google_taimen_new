@@ -1,0 +1,8 @@
+# Pixel 5 spoofing
+ro.build.fingerprint=google/redfin/redfin:11/RQ1A.210105.003/7005429:user/release-keys
+ro.build.description=redfin-user 11 RQ1A.210105.003 7005429 release-keys
+ro.product.brand=google
+ro.product.device=taimen
+ro.product.manufacturer=Google
+ro.product.model=Pixel 5
+ro.product.name=redfin
