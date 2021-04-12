@@ -18,4 +18,5 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/hentai_taimen.mk
 
 COMMON_LUNCH_CHOICES := \
+    hentai_taimen-userdebug \
     hentai_taimen-user
